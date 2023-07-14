@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    
+}
+#gnb{
+    border-bottom: 1rem;
+}
+section{
+        height:  100vh;
+}
+a{
+    text-decoration: none;
+}
